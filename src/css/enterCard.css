@@ -1,0 +1,32 @@
+
+button{
+    width:200px;
+    height:50px;
+    background-color: white;
+}
+button:hover{
+    cursor: pointer;
+}
+button:active{
+    background-color: wheat;
+}
+#logInOptionButton{
+    background-color: wheat;
+}
+#enterCardContainer{
+    margin-top: 10%;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10%;
+    column-gap: 200px;
+}
+#optionContainer{
+    display: flex;
+    justify-content: center;
+}
+#logInButton{
+    background-color:blanchedalmond;
+}
+#signUpButton{
+    background-color: blanchedalmond;
+}
